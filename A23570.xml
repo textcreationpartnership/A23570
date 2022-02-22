@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe note of the benefits that grow to this realme, by the obseruation of fish-daies with a reason and cause wherefore the law in that behalfe made, is ordained.  Very necessarie to be placed in the houses of all men, especially common victualers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1627</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23570</idno>
+            <idno type="STC">STC 9978</idno>
+            <idno type="STC">ESTC S117794</idno>
+            <idno type="EEBO-CITATION">99853004</idno>
+            <idno type="PROQUEST">99853004</idno>
+            <idno type="VID">18362</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23570)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 18362)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1545:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe note of the benefits that grow to this realme, by the obseruation of fish-daies with a reason and cause wherefore the law in that behalfe made, is ordained.  Very necessarie to be placed in the houses of all men, especially common victualers.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed [by A. Mathewes?] for Henry Gosson and Francis Coules,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>[1627?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Another edition of STC 9976.5, dated 20 March 1593.</note>
+                  <note>Suggested printer's name and publication from STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fisheries --  Economic aspects --  England --  Early works to 1800.</term>
+               <term>Meat industry and trade --  England --  Early works to 1800.</term>
+               <term>Food supply --  England --  Early works to 1800.</term>
+               <term>Fasting --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:18362:1"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <figDesc>depiction of the English royal blazon, crowned and gartered, and flanked by the English lion and Scottish unicorn</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>depiction of two fisherman in a boat hauling in a netful of fish</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>depiction of a giant sea fish swimming in the sea with two battleships engaged in battle in the background</figDesc>
+               </figure>
+               <figure>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>depiction of the English royal blazon, crowned and gartered,</figDesc>
+               </figure>
+            </head>
+            <head>A briefe note of the benefits that grow to this Realme, by <hi>the obſeruation of Fiſh-daies: with a reaſon and cauſe wherefore the Law in that behalfe made, is ordained.</hi>
+            </head>
+            <head type="sub">Very neceſſarie to be placed in the Houſes of all men, eſpecially common Victualers.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Here heretofore by the Queenes moſt excellent Maieſtie, of her clemencie and care conceiued, for diuers priuate benefits that might growe to her louing Sub<g ref="char:EOLhyphen"/>iects, ſpecially for the better maintenance of the Nauie of this Lande, hath with the aſſent of the whole ſtate of her Realme, cauſed to be made and publiſhed ſun<g ref="char:EOLhyphen"/>dry ſtatute Lawes and Proclamations, for the expence of Fiſh and obſeruation of Fiſh-dayes, with great penalties to be laid on the offenders: That by the cer<g ref="char:EOLhyphen"/>taine obſeruation thereof, Fiſher-men (the chiefeſt Nource for Marriners) might the more be increaſed and maintained. The common ſort of people, contem<g ref="char:EOLhyphen"/>ning this obſeruation, to auoyde the ceremony in times paſt therein vſed, and not certainly knowing the benefites thereby growing to the Realme, nor remem<g ref="char:EOLhyphen"/>bring the penalties by the ſame Lawes appointed, doe not onely fall into the danger of the ſaid Lawes, but by the ſame hath cauſed a great decay to Fiſhing, whereby groweth many other great detriments to the common-wealth of this Realme. For the better inſtruction therefore of ſuch perſons, as for the benefit of their Countrey will be perſwaded: In this briefe Table is ſet downe the puniſhment appointed for the Offenders, the diſcommodities that happen to the Realme by the ſaid contempt, and the great benefit that might grow to the people by obſeruation hereof, with the opinion that ought to be conceiued in the ea<g ref="char:EOLhyphen"/>ting of Fiſh, at the dayes and times preſcribed, being briefly ſet downe as hereafter followeth.</p>
+            <div type="part">
+               <head>THE BRANCHES OF THE STATVTE.</head>
+               <p>IN the fift yeere of her Maieſties moſt gracious raigne, it was ordained that it ſhould not be Lawfull for any perſon within this Realme, to eat any Fleſh, vpon any dayes then vſually obſerued as Fiſh-dayes, vpon paine to forfeit three pounds for euery time he offended, or ſuffer three mon<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hs of imp<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſonment without baile or mainprize.</p>
+               <p>And euery perſon within whoſe houſe any ſuch offence ſhall be done, being priuie and knowing thereof, and not effectually puniſhing or diſcloſing the ſame to ſome publique officer hauing authority to puniſh the ſame, to forfeit for euery ſuch offence fortie ſhillings, the ſaid penaltie being great, and many of poore eſtate fauoured by reaſon thereof, but the offence thought neceſſary not to be left vnpuniſhed, the Queenes Maieſtie of her great clemencie in the Parliment holden the 34. yeere of her moſt gracious raigne, hath cauſed the forfiture for the eater to be but twenty ſhillings, and for him in whoſe houſe it is eaten, but 13. ſhillings 4. pence, which being executed, will proue very damedgeable to the offenders.</p>
+               <p>In the twenty ſeuenth yeere of her highneſſe raigne, it was further ordained and remaineth ſtill in force, that no Inholder, Vintner, Alehouſe-keeper, Common-victualler, Common-cooke, or Common Table-keeper ſhall vtter or put to ſale, vpon any Fryday, Saterday, or other dayes appointed to be Fiſh-dayes, or any day in time of Lent, any kind of fleſh victuall, vpon paine of forfiture of 5. pounds, and ſhall ſuffer ten dayes impriſonment without baile, maineprize, or remooue, for euery time ſo offending.</p>
+            </div>
+            <div type="part">
+               <head>THE CAVSE AND REASON.</head>
+               <p>FIrſt for as much as our Countrey is (for the moſt part) compaſſed with the Seas, and the greateſt force for defence thereof, vnder God, is the Kings Maieſties Nauie of ſhips: for maintenance and in increaſe of the ſaid Nauie, this Law for abſtinence hath been moſt carefully ordained, that by the certaine expence of Fiſh, fiſhing and Fiſher-men might be the more increaſed and the better maintained, for that the ſaid trade is the cheefeſt Nource, not only for the bringing vp of youth for ſhipping but great numbers of ſhips therein are vſed, furniſhed with ſufficient Marriners, men at all times in a readineſſe for his Maieſties ſeruice in thoſe affaires.</p>
+               <p>The ſecond cauſe, for that many Towns and Villages vpon the Sea coaſts, are of late yeres wonderfully decayed, and ſome wonderfully depopulated, which in times paſt were repleni<g ref="char:EOLhyphen"/>ſhed, not only with Fiſher-men, and great ſtore of ſhipping, but ſundry other Artificers: as Shipwrightes, Smithes, Ropemakers, Net-makers, Saile-makers, Weauers, Dreſſers, Cariers, and Vtterers of Fiſh, maintained chiefly by fiſhing. That they hereby againe might be tended, the want whereof, is, and hath beene cauſe of great numbers of idle perſons, with whom the Realme is greatly damaged: and this happeneth by reaſon of the vncertainty of the ſale of Fiſh, and the contemp<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> which in eating of fiſh is conceiued.</p>
+               <p>Furthermore, it is conſidered, that the trade for graſing of cattell, through the vnlawfull expence of fleſh, is ſo much increaſed, that many Farme houſes and Villages, wherein were maintained great numbers of people, and by them the markets plentifully ſerued with Corne and other victuals, is now vtterly decayed and put downe for the feeding or graſſng of Beefs, and Muttons only, by meanes whereof, the people which in ſuch places were maintained, are not only made vagrant; but alſo Calues, Hogs, Pigs, Geeſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Hennes, Chickins Capons, Egges, Butter, Cheeſe, and ſuch like things, doth become exceeding ſcarce and deare by want of their increaſe in thoſe places, ſo that the markets are <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> nor cannot be ſerued as in times paſt it hath beene.</p>
+               <p>Many other things for confirmation hereof might be ſpoken, as the great number of ſhips decayed, which hath beene maintained by fiſhing, the wealth and commoditie that fiſhing bringeth to this Realme, the cauſe that certaine dayes and times for expence of fiſh, muſt of neceſſitie be obſerued, growne by reaſon the prouiſion of fleſh for the peoples diet, muſt be certainely prouided, whereof the gentle Reader ſhall be more at large inſtructed in a litle booke publiſhed to that effect, with ſundry other arguments which for breuitie is omitted, in hope the conſideration hereof, will be ſufficient to perſwade ſuch perſons as eſteeme more the benefite of their Countrey, then their owne luſt or appetite, ſetting before their eies the feare of God in obedience to the Princes commandement, eſpecially in ſuch things as concerne the benefite of a Common-wealth, conſidering S. <hi>Paul</hi> ſaith, There is no power but of God: The powers (ſaith he) that be, are ordained of God: and thoſe that reſiſt theſe powers, reſiſt the ordinance of God.</p>
+               <p>It is further to be conſidered, that there is no conſcience to be made in the kinde or nature of the meate being fleſh or fiſh, as in times paſt a feigned ceremonie therein was vſed; nei<g ref="char:EOLhyphen"/>ther is the meate concerning it ſelfe vnlawfull to be eaten at any time, but the vſe thereof is vnlawfull, being forbidden to eat by the Prince, hauing power and authoritie from God, and done by the conſent of the whole eſtate for a Common-wealth, wherein obedience ought to be ſhewed, not for feare of puniſhment onely (as S. <hi>Paul</hi> ſaith) but for conſcience ſake, not e<g ref="char:EOLhyphen"/>ſteeming the meate nor the day, but obedience to the Law &amp; benefite to our Countrey and poore brethren: remembring that the Magiſtrate beareth not the ſword for nought, but to take vengeance vpon them that doe euill. For S. <hi>Paul</hi> ſaith further: He that will liue without feare of puniſhment muſt doe well, and ſo ſhall he haue praiſe for the ſame.</p>
+               <p>And although feare of puniſhment will not reforme ſuch perſons, as by affection conceiued hath bene addicted from the expence of Fiſh and the obſeruation of Fiſh-dayes: yet the foreſaid things conſidered, let obedience to their Prince and benefite to their Countrey, perſwade them to bridle their affectioned luſt for a ſmall time, ſo ſhall they both ſee and feele eſtimate of the Beefes that were killed and vttered in the Citie of London and Suburds for a yeere, and what number of the might be ſpared in the ſaid yeere, by one dayes abſtinence in a weeke, by which alſo may be coniectured, what may be ſpared in the whole Realme.</p>
+            </div>
+            <div type="part">
+               <head>An eſtimate what Beefes might be ſpared in a yeere, in the Cittie of <hi>London</hi> by one dayes abſtinence in a weeke.</head>
+               <p>Firſt the yeere are fiftie two weekes, for euery weeke ſeuen dayes, in all 365. The Lent with Fryday and Satu<g ref="char:EOLhyphen"/>day in euery weeke, &amp; the other accuſtomed Fiſh dayes, being collected together, extend to 153. So in the yeere is 153 fiſh dayes, and 211. fleſh-dayes, that is 58. fleſh-dayes more then fiſh-dayes.</p>
+               <p>So the yeere being 52 weekes, abate 7. for the time of Lent, wherein no Beefes ought to be killed, and there remaineth but 45. weekes. Then let vs ſay there be three ſcore Butchers, that bee Freemen within the Cittie, and euery Butcher to kill weekely the one with the other, fiue Beefes apeece. The ſame amounteth to 13500. Beefes.</p>
+               <p>The Forriners in the Suburbs, &amp; ſuch as come out of the Countrey to ſerue the Markets in the Cittie, as it is credibly affirmed, kill and vtter in the Cittie weekely, foure times ſo many as the Freemen, which amounteth to 54000. So ioyning the Beefes vttered by the Freemen &amp; Fariners together, they extend to 67500.</p>
+               <p>If we will now know what number of Beefes might be ſpared in a yeere, by one dayes abſtinence in a weeke: let vs ſay in the weeke are fiue daies accuſtomably ſerued with fleſh, (for that Fryday and Saterday by the Law are dayes of abſtinence) whereof one being taken away, the reſt but foure: in like caſe, deuide the ſaid 67500. into fiue parts And the fift part ſpared, by the fift dayes abſtinence, is 13500.</p>
+               <p>By this is not ment that any moe fiſh-dayes ſhould be ordayned then already are, but that Fryday and Saterday might be in better ſort obſerued, for that Fleſh victuals on thoſe dayes, in moſt places, are as commonly ſpent as on fleſh-dayes, and therefore may well be accounted for the expence of one fleſh-day's the due obſeruation wherof, would ſpare the num<g ref="char:EOLhyphen"/>ber of Beefes aforeſaid or more, beſides thoſe things ſold by the Poulters, and other ſmall Cattell, as Calues, Sheepe, and Lambes innumerable killed by the Butcher.</p>
+               <closer>
+                  <dateline>Seene and allowed by the moſt honorable priuie Councell, <date>in the yeere of our Lord God, 1593. The 20. of March.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>AT LONDON. Printed for <hi>Henry Goſſon,</hi> and <hi>Francis Coules.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
